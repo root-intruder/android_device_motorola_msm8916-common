@@ -1,25 +1,30 @@
 [
   {
+    "remote":      "github",
     "repository":  "LineageOS/android_kernel_motorola_msm8916",
     "branch":      "lineage-18.1",
     "target_path": "kernel/motorola/msm8916"
   },
   {
+    "remote":      "github",
     "repository": "LineageOS/android_external_bson",
     "branch":      "lineage-18.1",
     "target_path": "external/bson"
   },
   {
+    "remote":      "github",
     "repository": "LineageOS/android_external_sony_boringssl-compat",
     "branch":      "lineage-18.1",
     "target_path": "external/sony/boringssl-compat"
   },
   {
+    "remote":      "github",
     "repository": "LineageOS/android_hardware_sony_timekeep",
     "branch":      "lineage-18.1",
     "target_path": "hardware/sony/timekeep"
   },
   {
+    "remote":      "github",
     "repository": "LineageOS/android_system_qcom",
     "branch":      "lineage-18.1",
     "target_path": "system/qcom"
